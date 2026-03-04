@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Ready to Collect Status
  * Description: Adds a "Ready to Collect" order status with email notification, compatible with YayMail.
  * Version: 1.0.0
- * Author: 
+ * Author: Liam O'Shannessy with Claude AI
  * License: MIT
  * Requires at least: 6.0
  * Requires PHP: 7.4
